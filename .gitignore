@@ -1,0 +1,8 @@
+4-title-translation/product-translation-dataset
+4-title-translation/mass
+4-title-translation/mass-outputs
+4-title-translation/product-translation-dataset.zip
+6-sentiment-analysis/shopee-sentiment-analysis_dataset
+6-sentiment-analysis/data
+*.zip
+.ipynb_checkpoints
