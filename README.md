@@ -1,5 +1,11 @@
 # Team Bruh's Solutions to the Shopee CodeLeague 2020
 
+Our team finished 11th out of hundreds of teams from all around the world.
+
+<img src="rankings/1-5.PNG" width="250"/><img src="rankings/6-10.PNG" width="250"/><img src="rankings/ours.PNG" width="250"/>
+
+Note: we removed the datasets and some codes in _Title Translation_ and _Sentiment Analysis_ as they are too big to be included in the repository.
+
 ## Rounds
 
 | Round | Brief Round Description |
