@@ -18,4 +18,3 @@
 - [Cesista, Franz Louis](https://github.com/leloykun)
 - Macarasig, Ralph Joshua
 - Montemayor, Raphael Jose
-- Ortega, Gerard Francis
